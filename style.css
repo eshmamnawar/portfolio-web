@@ -1,7 +1,7 @@
 .azeret-mono {
     font-family: "Azeret Mono", serif;
     font-optical-sizing: auto;
-    font-weight: 600;
+    font-weight: 800;
     font-style: normal;
     color: 0D1321;
   }
@@ -101,3 +101,22 @@
     background-color: white;
     font-size: medium;
   }
+
+/* .inspiration */
+.containers{
+    margin: 50px 200px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.video{
+    border: 2px solid rgb(203, 203, 203);
+    border-radius: 20px;
+    border-color: rgb(172, 172, 172);
+    margin-top: 50px;
+}
+.video iframe{
+    margin: 15px;
+    height: 500px;
+    width: 1150px;
+    border-radius: 10px;
+}
