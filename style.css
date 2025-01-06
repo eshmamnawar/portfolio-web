@@ -164,7 +164,6 @@
 .contact{
     background-image: url(./assets/handshake.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
 }
 textarea {
     margin-top: 10px;
