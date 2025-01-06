@@ -77,15 +77,16 @@
     margin: 80px;
     padding: 80px;
     display: flex;
-    justify-content:center;
+    justify-content: space-evenly, space-between;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .part{
     text-align: start;
     margin-right: 50px;
     font-size: larger;
-    font-weight: 700px;
+    font-weight: 800px;
+    padding: 20px;
 }
 
 .parts-text{
@@ -98,4 +99,5 @@
     padding: 15px ;
     width: auto;
     background-color: white;
+    font-size: medium;
   }
